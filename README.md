@@ -24,8 +24,11 @@ This Python script uses Selenium WebDriver to automate the browsing and interact
 - Chrome WebDriver (compatible with your installed version of Google Chrome)
 - Selenium library
 
-## Output
+## Output Example
 
+When the script is run, the output will look something like this:
+
+```plaintext
 Product 1 title: Trendyol Collection T-Shirt, Discounted Price: 29.99 TL
 Product has been added to the cart.
 Product 2 title: Trendyol Sports Shoes, Discounted Price: 79.99 TL
