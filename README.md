@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script uses Selenium WebDriver to automate the browsing and interaction with the Trendyol website. It performs the following tasks:
+This Python script uses Selenium WebDriver to automate the browsing and interaction with the Trendyol website. It browses through every item in the top sellers list. When a discount is applied, the code adds the item to the cart and then opens it. It also performs the following tasks:
 
 1. **Setup WebDriver**: Configures the Chrome WebDriver for Selenium.
 2. **Close Pop-Up**: Closes the initial pop-up that appears on the Trendyol homepage.
